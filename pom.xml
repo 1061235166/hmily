@@ -13,11 +13,9 @@
         <module>hmily-tcc-common</module>
         <module>hmily-tcc-core</module>
         <module>hmily-tcc-demo</module>
-        <module>hmily-tcc-dubbo</module>
         <module>hmily-tcc-springcloud</module>
         <module>hmily-tcc-annotation</module>
         <module>hmily-tcc-admin</module>
-        <module>hmily-tcc-motan</module>
         <module>hmily-tcc-spring-boot-starter</module>
     </modules>
 
