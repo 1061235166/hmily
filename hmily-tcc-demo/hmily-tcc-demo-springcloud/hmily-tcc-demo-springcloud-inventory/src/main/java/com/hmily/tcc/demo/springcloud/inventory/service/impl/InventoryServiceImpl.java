@@ -96,6 +96,7 @@ public class InventoryServiceImpl implements InventoryService {
     @Tcc(confirmMethod = "confirmMethod", cancelMethod = "cancelMethod")
     @Transactional(rollbackFor = Exception.class)
     public Boolean mockWithTryTimeout(InventoryDTO inventoryDTO) {
+        System.out.println(1);
         try {
             //模拟延迟 当前线程暂停10秒
             Thread.sleep(10000);
