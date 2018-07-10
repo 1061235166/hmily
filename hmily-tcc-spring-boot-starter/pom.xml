@@ -31,9 +31,7 @@
     <artifactId>hmily-tcc-spring-boot-starter</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>hmily-tcc-spring-boot-starter-dubbo</module>
         <module>hmily-tcc-spring-boot-starter-springcloud</module>
-        <module>hmily-tcc-spring-boot-starter-motan</module>
         <module>hmily-tcc-spring-boot-starter-parent</module>
     </modules>
 
